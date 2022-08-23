@@ -8,7 +8,7 @@ setup(
     url= 'https://github.com/beon0/api_project.git',
     author= 'hyunji',
     author_email= 'rlaguswl706926@naver.com',
-    package= ['my_api'],
+    packages= ['my_api'],
     zip_safe = False,
     install_requires = [
         'requests'
